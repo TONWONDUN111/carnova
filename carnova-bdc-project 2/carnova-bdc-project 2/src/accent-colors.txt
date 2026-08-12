@@ -1,0 +1,4 @@
+Accent: Amber/Gold (#F59E0B)
+- Submit buttons → amber-600
+- Success states → amber highlights
+- Badge accents → amber background
