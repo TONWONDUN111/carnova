@@ -1,0 +1,33 @@
+{
+  "name": "carnova-ai-bdc",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.1",
+    "@netlify/database": "^1.0.0",
+    "@netlify/identity": "^1.0.0",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^25.0.1",
+    "prettier": "^3.9.6",
+    "vite": "^6.0.5",
+    "vitest": "^4.1.11"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
